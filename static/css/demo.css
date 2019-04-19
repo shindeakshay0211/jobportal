@@ -1,0 +1,42 @@
+.container .jumbotron{
+  /* hone page jumbotronbox */
+  background: red;
+  color: green;
+}
+body{
+  background: url(https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container{
+  margin-top: 200px;
+}
+/*home page button */
+.jumbotron a{
+  background: pink;
+  color: brown;
+  border: 2px solid green;
+}
+p{
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+}
+img{
+/*  hydjobs page images*/
+  width: 20%;
+  height: 250px;
+  border: 2px solid green;
+  margin: 10px;
+  color: white;
+}
+table{
+  color: yellow;
+  font-size: 20px;
+}
+h1{
+  margin-top: 50px;
+  font-size: 50px;
+  color: red;
+  text-align: center;
+}
